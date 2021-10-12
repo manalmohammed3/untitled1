@@ -15,7 +15,7 @@ const val APPLES=65
 
 
     println("the num of dozen" + noOfdozens)
-    println(remainApples)
+    println( "the num of dozen"+ remainApples)
 
 
 }
